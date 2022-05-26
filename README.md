@@ -1,10 +1,10 @@
-# _{Insightin Technology Bangladesh Ltd. Test Project with Bootstrap and CSS}_
+# _Insightin Technology Bangladesh Ltd. Test Project with Bootstrap and CSS_
 
-#### By _**{Tahira Jannat}**_
+#### By _**Tahira Jannat**_
 
-#### Email _**{jannat.setu95@gmail.com}**_
+#### Email _**jannat.setu95@gmail.com**_
 
-#### _{Insightin Technology Bangladesh Ltd. Test Project with Bootstrap and CSS}_
+#### _Insightin Technology Bangladesh Ltd. Test Project with Bootstrap and CSS_
 
 ## Technologies Used
 
@@ -13,23 +13,20 @@
 
 ## Description
 
-_{This is a test project of Insightin Technology Bangladesh Ltd. Test Project with Bootstrap and CSS. minified using gulp}_
+_This is a test project of Insightin Technology Bangladesh Ltd. Test Project with Bootstrap and CSS. minified using gulp_
 
 ## Setup/Installation Requirements
 
-- _Download the Zip File_
-- _Extract the file_
-- _Open with vscode or other editor_
-- _Source file in src folder_
-- _Open [http://localhost:3000](http://localhost:3000) with your browser to see the result._
-- _file format .html_
+- _Clone repository [https://github.com/TahiraJannat/insightin-technology-test/tree/master/src]_
+- _Open index.html with your browser or live server_
 - _Figma url-[https://bit.ly/3lJpVwa]_
 
 ## How to minify
 
-- _Open the folder_
-- _Open your terminal_
-- _type the command "gulp clean/ gulp cleaner"_
-- _type the command "gulp"_
+- _Clone repository [https://github.com/TahiraJannat/insightin-technology-test/]_
+- _npm install --force"_
+- _If failed install gulp globally"_
+- _In terminal just type "gulp"_
+- _Minified CSS, html, javascript will be saved in dist folder"_
+- _If clean up needed type gulp clean_
 
-Copyright (c) _May,26,2022_ _Tahira Jannat_
