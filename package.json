@@ -2,12 +2,11 @@
   "name": "insightin_test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "gulpfile.js",
-   "devDependencies": {
+  "devDependencies": {
     "del": "^6.1.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "latest",
@@ -29,10 +28,6 @@
     "url": "git+https://github.com/TahiraJannat/insightin-technology-test.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TahiraJannat/insightin-technology-test/issues"
-  },
-  "homepage": "https://github.com/TahiraJannat/insightin-technology-test#readme"
+  "author": "Tahira Jannat",
+  "license": "ISC"
 }
